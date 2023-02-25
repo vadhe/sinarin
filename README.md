@@ -1,4 +1,8 @@
-# Qwik City App ⚡️
+# Sinarin
+ Sinarin project is a personal project for exercise about qwik, golang and aws.
+
+
+## Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
 - [Discord](https://qwik.builder.io/chat)
